@@ -1,7 +1,9 @@
 {
   "data" : [
     {
-      "idiom" : "universal"
+      "filename" : "DALL·E 2024-01-30 11.41.30 - Design an iOS app icon for a to-do list application. The icon should be simple, modern, and clean, embodying the functionality of the app which is to .png",
+      "idiom" : "universal",
+      "universal-type-identifier" : "public.png"
     }
   ],
   "info" : {
